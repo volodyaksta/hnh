@@ -1,0 +1,39 @@
+table {
+    background: #ffffff; /* Цвет фона таблицы */
+    border: #2c6eb2;
+    }
+    
+    
+    thead {
+        background: #ec0a0a;
+    }
+
+    thead th {
+        color: #fdfdfd;
+        font-style: italic;
+        font-family: calibri;
+        padding: 0px 3px 0px 3px;
+        text-align: center;
+    }
+
+    tbody td {
+        color: #184774;
+        padding: 0px 0px 0px 8px;
+    }
+
+    tfoot td{
+        font-family: calibri;
+        padding: 0px 8px 0px 5px;
+        text-align: left;
+    }
+
+    tfoot th{
+        font-family: calibri;
+        padding: 0px 3px 0px 5px;
+        text-align: right;
+    }
+
+    .education td:hover, .education th:hover {
+        visibility: hidden;
+    }
+    .content-col{
