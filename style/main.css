@@ -8,7 +8,7 @@ h1,h2,a {font-family: 'Lobster', cursive;}
     }
     body {background: url(../img/bg4.jpg)}
     h1{
-    color: rgb(35, 16, 212);
+    color: rgb(95, 82, 212);
     font-size: 25px;
     font-weight: medium;
     }
@@ -162,7 +162,7 @@ h1,h2,a {font-family: 'Lobster', cursive;}
     text-align: center; /* Выравнивание по центру */
     padding: 5px; /* Отступы вокруг текста */
     color: #ffe; /* Цвет текста */
-    background: linear-gradient(to right, #f00505, #069de2);
+    background: linear-gradient(to right, #f79b32, #852df8);
     height: 100px;
     font-style: oblique;
     }
@@ -181,7 +181,7 @@ h1,h2,a {font-family: 'Lobster', cursive;}
     padding: 10px; /* Отступы вокруг текста */
     float: left; /* Обтекание по правому краю */
     text-align: center;
-    background: linear-gradient(45deg, #f00505, #069de2);
+    background: linear-gradient(45deg, #f79b32, #852df8);
     opacity: .8;
     height: 500px;
     
@@ -190,7 +190,7 @@ h1,h2,a {font-family: 'Lobster', cursive;}
     #content {
     margin-left: 265px; /* Отступ слева */
     padding: 10px; /* Поля вокруг текста */
-    background: linear-gradient(to right, #f00505, #069de2);
+    background: linear-gradient(to right, #f79b32, #852df8);
     }
     #footer {
     padding: 5px; /* Отступы вокруг текста */
